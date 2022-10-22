@@ -1,0 +1,58 @@
+@media (max-width: 1415px){
+    .ab_me_main{
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+    }
+    
+    .ab_me_text{
+        font-size: 34px;
+        margin-left: 20px;
+        margin-right: 20px;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+    }
+
+    .line{
+        border: 0.5px solid red;
+        height: 1px;
+        width: 40%;
+        margin-top: 17px;
+    }
+
+    .text_img{
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        font-size: 68px;
+        position: absolute;
+        top: 220px;
+        left: 30px;
+    }
+    
+    .text_img_dis{
+        color: rgb(119, 119, 119);
+        font-size: 15px;
+        position: absolute;
+        padding-top: 10px;
+    }
+
+    .skill_des_text{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+        color: black;
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        font-weight: bold;
+    }
+
+    .hobby_text_in{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+        color: black;
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        font-weight: bold;
+    }
+}
